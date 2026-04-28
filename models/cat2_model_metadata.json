@@ -1,0 +1,204 @@
+{
+    "project": "Customer Retention Prediction",
+    "category": "Category 2 - Interaction Experience",
+    "model_name": "Tuned Random Forest",
+    "target": "retention_label",
+    "feature_columns": [
+        "issue_category",
+        "customer_sentiment",
+        "issue_complexity",
+        "agent_experience_level",
+        "agent_politeness",
+        "agent_empathy",
+        "agent_professionalism",
+        "communication_clarity",
+        "apology_present",
+        "patience_present",
+        "active_listening_present",
+        "deescalation_present",
+        "helpfulness",
+        "customer_tone_observed",
+        "outcome_quality"
+    ],
+    "binary_features": [
+        "apology_present",
+        "patience_present",
+        "active_listening_present",
+        "deescalation_present"
+    ],
+    "ordinal_features": [
+        "issue_complexity",
+        "agent_experience_level",
+        "customer_sentiment",
+        "customer_tone_observed",
+        "outcome_quality"
+    ],
+    "ordinal_categories": [
+        [
+            "less",
+            "medium",
+            "high"
+        ],
+        [
+            "inexperienced",
+            "junior",
+            "experienced"
+        ],
+        [
+            "frustrated",
+            "negative",
+            "neutral",
+            "positive"
+        ],
+        [
+            "negative",
+            "neutral",
+            "positive"
+        ],
+        [
+            "unknown",
+            "unresolved",
+            "partially_resolved",
+            "resolved"
+        ]
+    ],
+    "nominal_features": [
+        "issue_category",
+        "agent_politeness",
+        "agent_empathy",
+        "agent_professionalism",
+        "communication_clarity",
+        "helpfulness"
+    ],
+    "categorical_options": {
+        "apology_present": [
+            0,
+            1
+        ],
+        "patience_present": [
+            0,
+            1
+        ],
+        "active_listening_present": [
+            0,
+            1
+        ],
+        "deescalation_present": [
+            0,
+            1
+        ],
+        "issue_complexity": [
+            "less",
+            "medium",
+            "high"
+        ],
+        "agent_experience_level": [
+            "inexperienced",
+            "junior",
+            "experienced"
+        ],
+        "customer_sentiment": [
+            "frustrated",
+            "negative",
+            "neutral",
+            "positive"
+        ],
+        "customer_tone_observed": [
+            "negative",
+            "neutral",
+            "positive"
+        ],
+        "outcome_quality": [
+            "unknown",
+            "unresolved",
+            "partially_resolved",
+            "resolved"
+        ],
+        "issue_category": [
+            "accessing warranty details",
+            "account and shopping",
+            "account reactivation and deactivation",
+            "adding and changing account information",
+            "availability of faster delivery options",
+            "book pricing discrepancies",
+            "cash on delivery (cod) refunds",
+            "contacting seller's partnered courier service providers",
+            "delivery process",
+            "expedited delivery",
+            "extended warranty",
+            "free delivery qualification",
+            "installation and accessories",
+            "invoice and payment",
+            "login issues and error messages",
+            "login methods",
+            "lost or missing warranty card",
+            "loyalty program",
+            "miscellaneous",
+            "mobile number and email verification",
+            "order cancellation",
+            "order confirmation and status",
+            "order delivery issues",
+            "pickup and shipping",
+            "placing an order",
+            "pricing and discounts",
+            "product availability and status",
+            "product availability for shipping",
+            "product information and tags",
+            "product installation",
+            "product registration and warranty",
+            "replacement and return process",
+            "return and exchange",
+            "return checks and fees",
+            "returns and refunds",
+            "shipping options for returns",
+            "standard shipping speeds and delivery charges",
+            "start date of warranty",
+            "warranty claim process",
+            "warranty terms and changes"
+        ],
+        "agent_politeness": [
+            "high",
+            "medium",
+            "unknown"
+        ],
+        "agent_empathy": [
+            "absent",
+            "present",
+            "unknown"
+        ],
+        "agent_professionalism": [
+            "high",
+            "low",
+            "medium",
+            "unknown"
+        ],
+        "communication_clarity": [
+            "high",
+            "medium",
+            "unknown"
+        ],
+        "helpfulness": [
+            "high",
+            "low",
+            "medium",
+            "unknown"
+        ]
+    },
+    "class_labels": {
+        "0": "Not Returned / Not Retained",
+        "1": "Returned / Retained"
+    },
+    "target_mapping": {
+        "not_retained": 0,
+        "retained": 1
+    },
+    "created_at": "2026-04-28T03:39:28",
+    "sklearn_version": "1.8.0",
+    "imblearn_version": "0.14.1",
+    "final_test_metrics": {
+        "accuracy": 0.9938650306748467,
+        "balanced_accuracy": 0.9964539007092199,
+        "f1_macro": 0.9871095294582839,
+        "roc_auc": 0.9987105093488071
+    }
+}
