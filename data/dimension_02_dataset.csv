@@ -1,0 +1,1001 @@
+issue_category,customer_sentiment,issue_complexity,agent_experience_level,agent_politeness,agent_empathy,agent_professionalism,communication_clarity,apology_present,patience_present,active_listening_present,deescalation_present,helpfulness,customer_tone_observed,outcome_quality,retention_label
+Pickup and Shipping,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Account Reactivation and Deactivation,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Availability and Status,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Mobile Number and Email Verification,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Lost or Missing Warranty Card,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Cancellation,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Return and Exchange,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Invoice and Payment,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Start Date of Warranty,neutral,less,experienced,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Start Date of Warranty,neutral,less,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,medium,junior,medium,present,medium,high,1,0,1,1,medium,negative,resolved,retained
+Order Delivery Issues,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Account and Shopping,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Miscellaneous,negative,medium,junior,medium,present,medium,medium,1,1,1,0,medium,negative,partially_resolved,not_retained
+Login Issues and Error Messages,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Mobile Number and Email Verification,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Availability of Faster Delivery Options,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Returns and Refunds,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Account Reactivation and Deactivation,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Warranty Terms and Changes,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Returns and Refunds,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Miscellaneous,negative,less,experienced,medium,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pricing and Discounts,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Login Methods,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Miscellaneous,negative,less,junior,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Product Availability for Shipping,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,not_retained
+Product Installation,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Book Pricing Discrepancies,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,unresolved,not_retained
+Return Checks and Fees,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Cash on Delivery (CoD) Refunds,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Confirmation and Status,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return Checks and Fees,negative,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Information and Tags,positive,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Invoice and Payment,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Start Date of Warranty,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Invoice and Payment,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Login Methods,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Login Methods,neutral,less,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Loyalty program,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Product Availability and Status,neutral,less,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Availability of Faster Delivery Options,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Mobile Number and Email Verification,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Invoice and Payment,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Installation and Accessories,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Book Pricing Discrepancies,neutral,high,experienced,high,present,high,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Loyalty program,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Accessing Warranty Details,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,less,inexperienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Warranty Terms and Changes,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Login Methods,neutral,medium,experienced,high,present,high,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Warranty Claim Process,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return Checks and Fees,neutral,less,experienced,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Order Delivery Issues,negative,less,inexperienced,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Book Pricing Discrepancies,neutral,high,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Product Registration and Warranty,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Expedited Delivery,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Pickup and Shipping,neutral,less,junior,high,present,high,high,0,0,0,0,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,less,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Account Reactivation and Deactivation,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Invoice and Payment,negative,less,junior,medium,present,medium,medium,1,1,1,0,medium,negative,partially_resolved,not_retained
+Product Registration and Warranty,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,medium,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Book Pricing Discrepancies,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,junior,high,present,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,0,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Availability of Faster Delivery Options,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Returns and Refunds,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Product Registration and Warranty,neutral,medium,junior,high,present,high,high,1,0,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,medium,inexperienced,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Replacement and Return Process,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Account Reactivation and Deactivation,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Product Registration and Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Warranty Terms and Changes,neutral,less,inexperienced,high,present,medium,high,0,0,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,high,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Adding and Changing Account Information,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,high,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Returns and Refunds,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,junior,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Shipping Options for Returns,neutral,high,junior,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Pricing and Discounts,neutral,less,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Return Checks and Fees,negative,less,junior,medium,present,medium,high,1,1,1,0,medium,negative,partially_resolved,not_retained
+Pricing and Discounts,frustrated,less,inexperienced,high,present,medium,high,0,1,1,0,medium,negative,resolved,retained
+Lost or Missing Warranty Card,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Placing an Order,positive,less,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Order Delivery Issues,frustrated,high,junior,high,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Order Confirmation and Status,neutral,less,inexperienced,medium,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,less,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Account and Shopping,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Returns and Refunds,negative,medium,experienced,high,present,high,high,1,1,1,0,high,negative,resolved,retained
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,medium,junior,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Order Confirmation and Status,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,experienced,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Pickup and Shipping,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,0,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Installation and Accessories,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Warranty Terms and Changes,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Availability of Faster Delivery Options,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Product Installation,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Installation and Accessories,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Return and Exchange,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,inexperienced,medium,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Lost or Missing Warranty Card,frustrated,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,neutral,medium,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Return and Exchange,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,negative,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Order Confirmation and Status,positive,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Accessing Warranty Details,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Product Information and Tags,positive,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Pickup and Shipping,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pricing and Discounts,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,0,medium,negative,partially_resolved,not_retained
+Product Availability and Status,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return and Exchange,neutral,medium,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Loyalty program,negative,high,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Cancellation,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,negative,medium,inexperienced,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,less,junior,unknown,absent,unknown,unknown,0,0,0,0,unknown,negative,unknown,not_retained
+Expedited Delivery,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Returns and Refunds,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Cancellation,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Login Methods,neutral,less,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Warranty Claim Process,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Availability and Status,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,not_retained
+Product Availability and Status,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Free Delivery Qualification,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,neutral,high,inexperienced,medium,present,medium,medium,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Product Availability and Status,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Pricing and Discounts,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Invoice and Payment,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Loyalty program,neutral,high,junior,medium,present,medium,high,0,0,1,0,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,experienced,high,present,high,high,0,0,0,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Login Methods,neutral,medium,junior,high,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Return Checks and Fees,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account and Shopping,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Replacement and Return Process,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Delivery Process,neutral,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,unresolved,not_retained
+Invoice and Payment,negative,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Product Availability for Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Delivery Issues,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pricing and Discounts,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Confirmation and Status,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Start Date of Warranty,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Expedited Delivery,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return Checks and Fees,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Order Cancellation,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Extended Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Installation and Accessories,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Pickup and Shipping,frustrated,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Replacement and Return Process,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Product Information and Tags,positive,medium,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Returns and Refunds,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Shipping Options for Returns,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Warranty Terms and Changes,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Returns and Refunds,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,negative,high,experienced,medium,present,high,high,1,0,1,0,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,positive,less,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Placing an Order,positive,less,junior,high,present,high,high,0,0,1,0,high,positive,resolved,retained
+Account and Shopping,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,less,junior,medium,present,medium,medium,1,1,1,0,medium,negative,resolved,retained
+Mobile Number and Email Verification,neutral,less,experienced,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Return and Exchange,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Login Methods,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,high,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Availability and Status,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,unresolved,not_retained
+Login Issues and Error Messages,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Pickup and Shipping,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Miscellaneous,negative,less,experienced,high,present,high,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Order Confirmation and Status,neutral,less,experienced,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return and Exchange,frustrated,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Availability of Faster Delivery Options,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return Checks and Fees,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Pickup and Shipping,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,frustrated,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,frustrated,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Lost or Missing Warranty Card,frustrated,medium,inexperienced,medium,present,medium,high,1,0,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,less,inexperienced,medium,absent,medium,unknown,0,0,0,0,unknown,negative,unknown,not_retained
+Mobile Number and Email Verification,neutral,medium,experienced,high,present,high,high,0,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,neutral,less,junior,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Pickup and Shipping,frustrated,high,junior,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Warranty Terms and Changes,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Product Availability for Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Confirmation and Status,neutral,less,junior,high,absent,medium,high,0,1,1,0,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,frustrated,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Cancellation,neutral,high,junior,high,present,medium,medium,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Loyalty program,negative,medium,junior,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return Checks and Fees,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Lost or Missing Warranty Card,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,unresolved,not_retained
+Loyalty program,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Returns and Refunds,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Invoice and Payment,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Product Availability and Status,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Installation and Accessories,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,high,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Login Issues and Error Messages,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Product Availability for Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Accessing Warranty Details,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Book Pricing Discrepancies,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Loyalty program,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Availability and Status,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Pricing and Discounts,frustrated,high,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Product Information and Tags,positive,less,junior,high,present,high,high,1,1,1,0,high,positive,resolved,retained
+Pickup and Shipping,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Warranty Claim Process,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,frustrated,less,inexperienced,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Miscellaneous,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Miscellaneous,negative,less,inexperienced,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Returns and Refunds,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Warranty Terms and Changes,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return Checks and Fees,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Replacement and Return Process,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return and Exchange,frustrated,high,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,frustrated,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Product Availability and Status,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return Checks and Fees,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Login Methods,neutral,high,junior,medium,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Replacement and Return Process,negative,less,inexperienced,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,less,experienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Confirmation and Status,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Accessing Warranty Details,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Pickup and Shipping,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Cancellation,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Warranty Claim Process,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,less,junior,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Installation and Accessories,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Contacting Seller's Partnered Courier Service Providers,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Miscellaneous,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return and Exchange,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Order Cancellation,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,negative,less,inexperienced,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Extended Warranty,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,medium,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Standard Shipping Speeds and Delivery Charges,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Returns and Refunds,negative,medium,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Login Methods,neutral,less,experienced,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Returns and Refunds,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Free Delivery Qualification,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Return and Exchange,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Cash on Delivery (CoD) Refunds,negative,less,inexperienced,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Pricing and Discounts,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,medium,junior,high,present,high,high,1,1,1,0,high,positive,resolved,retained
+Product Installation,neutral,high,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,junior,medium,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Replacement and Return Process,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,neutral,medium,inexperienced,medium,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,high,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Order Confirmation and Status,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Free Delivery Qualification,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,positive,medium,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Pricing and Discounts,neutral,high,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Free Delivery Qualification,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Pickup and Shipping,neutral,high,junior,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Login Methods,neutral,medium,inexperienced,high,present,medium,medium,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Return Checks and Fees,negative,less,junior,medium,present,medium,medium,1,1,1,0,medium,negative,unresolved,not_retained
+Adding and Changing Account Information,neutral,high,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,neutral,high,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Pricing and Discounts,frustrated,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,less,experienced,high,present,high,high,1,1,0,1,medium,negative,partially_resolved,not_retained
+Placing an Order,positive,less,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Login Methods,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Warranty Claim Process,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Warranty Terms and Changes,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,0,0,0,0,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,positive,less,junior,high,present,high,high,0,1,1,1,high,positive,resolved,retained
+Order Delivery Issues,frustrated,high,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Miscellaneous,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Expedited Delivery,neutral,medium,junior,high,present,medium,high,0,1,1,1,high,neutral,resolved,retained
+Start Date of Warranty,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,medium,inexperienced,medium,present,medium,high,1,1,1,0,high,negative,resolved,retained
+Delivery Process,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Product Availability and Status,negative,high,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Account and Shopping,neutral,less,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Mobile Number and Email Verification,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Invoice and Payment,neutral,high,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,inexperienced,medium,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Returns and Refunds,negative,medium,inexperienced,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Pickup and Shipping,neutral,medium,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,positive,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Adding and Changing Account Information,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Free Delivery Qualification,neutral,medium,inexperienced,high,present,medium,high,0,0,1,0,high,neutral,resolved,retained
+Pricing and Discounts,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Warranty Terms and Changes,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Product Availability and Status,negative,less,inexperienced,medium,present,medium,medium,1,1,1,0,medium,negative,unresolved,not_retained
+Order Confirmation and Status,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,positive,less,inexperienced,high,present,medium,high,0,1,1,0,high,positive,resolved,retained
+Pickup and Shipping,neutral,less,inexperienced,high,present,medium,high,0,0,1,0,medium,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Pickup and Shipping,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Loyalty program,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,inexperienced,high,present,medium,medium,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Login Methods,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Login Methods,neutral,medium,inexperienced,medium,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Lost or Missing Warranty Card,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Book Pricing Discrepancies,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Adding and Changing Account Information,neutral,medium,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Delivery Process,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,less,experienced,medium,present,high,high,1,1,1,1,medium,negative,unresolved,not_retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account and Shopping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Pickup and Shipping,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Pricing and Discounts,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Login Methods,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Return and Exchange,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Product Registration and Warranty,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Login Issues and Error Messages,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,high,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Registration and Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Pricing and Discounts,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Login Methods,neutral,medium,inexperienced,medium,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Pickup and Shipping,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Pickup and Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Login Methods,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Extended Warranty,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Contacting Seller's Partnered Courier Service Providers,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,frustrated,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Delivery Process,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,less,inexperienced,medium,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Returns and Refunds,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,neutral,less,junior,high,present,medium,high,1,1,1,0,high,positive,resolved,retained
+Mobile Number and Email Verification,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Pricing and Discounts,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,inexperienced,medium,absent,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Return and Exchange,negative,medium,experienced,high,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Start Date of Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return Checks and Fees,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Login Methods,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Expedited Delivery,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,less,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Product Availability and Status,negative,high,junior,medium,present,medium,medium,1,0,1,1,medium,negative,partially_resolved,not_retained
+Shipping Options for Returns,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,experienced,high,present,high,high,0,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Pickup and Shipping,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Return Checks and Fees,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Returns and Refunds,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Shipping Options for Returns,neutral,less,junior,high,present,high,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Accessing Warranty Details,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Loyalty program,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Confirmation and Status,positive,medium,junior,medium,present,medium,high,1,1,1,1,high,positive,resolved,retained
+Account Reactivation and Deactivation,negative,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Account and Shopping,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Returns and Refunds,negative,high,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Availability of Faster Delivery Options,negative,less,inexperienced,medium,present,medium,medium,1,1,1,0,low,negative,unresolved,not_retained
+Replacement and Return Process,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Shipping Options for Returns,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Cancellation,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Pricing and Discounts,frustrated,less,junior,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Shipping Options for Returns,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Loyalty program,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return Checks and Fees,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,partially_resolved,uncertain
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Confirmation and Status,positive,high,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Pickup and Shipping,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Login Methods,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Pricing and Discounts,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Shipping Options for Returns,neutral,less,inexperienced,medium,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Replacement and Return Process,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Product Availability and Status,neutral,high,junior,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Availability for Shipping,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Mobile Number and Email Verification,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,partially_resolved,uncertain
+Pickup and Shipping,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Return and Exchange,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Login Methods,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Warranty Terms and Changes,neutral,high,inexperienced,medium,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Free Delivery Qualification,neutral,less,experienced,high,present,high,high,0,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Warranty Claim Process,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Product Installation,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,less,experienced,high,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pricing and Discounts,neutral,medium,junior,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,neutral,less,junior,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Extended Warranty,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,not_retained
+Start Date of Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Product Availability for Shipping,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,medium,junior,high,present,high,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Return and Exchange,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Free Delivery Qualification,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,positive,less,inexperienced,high,present,medium,high,0,1,1,0,high,positive,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Order Delivery Issues,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,medium,inexperienced,high,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Warranty Terms and Changes,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,high,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Miscellaneous,negative,medium,experienced,medium,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Availability of Faster Delivery Options,negative,medium,junior,medium,present,medium,medium,1,1,1,0,medium,negative,unresolved,not_retained
+Pricing and Discounts,frustrated,high,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,negative,medium,experienced,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Confirmation and Status,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,positive,medium,junior,high,present,medium,high,0,1,1,0,high,positive,resolved,retained
+Order Cancellation,neutral,medium,experienced,high,present,high,high,0,1,1,1,high,neutral,resolved,retained
+Availability of Faster Delivery Options,negative,high,inexperienced,medium,present,medium,high,1,1,1,0,medium,negative,resolved,not_retained
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Installation,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,inexperienced,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Book Pricing Discrepancies,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,partially_resolved,uncertain
+Pickup and Shipping,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Mobile Number and Email Verification,negative,medium,junior,high,present,medium,high,1,1,1,0,high,negative,resolved,retained
+Login Issues and Error Messages,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Return Checks and Fees,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Placing an Order,positive,medium,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Mobile Number and Email Verification,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,medium,junior,medium,present,medium,medium,1,1,0,1,medium,negative,resolved,retained
+Order Cancellation,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Mobile Number and Email Verification,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,high,junior,high,present,medium,high,1,1,1,0,high,negative,resolved,retained
+Login Methods,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Free Delivery Qualification,neutral,less,experienced,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Order Confirmation and Status,neutral,less,experienced,high,present,high,high,1,1,1,0,high,positive,resolved,retained
+Returns and Refunds,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Shipping Options for Returns,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Login Methods,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,medium,junior,medium,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Miscellaneous,negative,less,junior,medium,present,medium,medium,1,1,1,0,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,negative,less,junior,medium,present,medium,medium,1,1,1,0,low,negative,unresolved,not_retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Return and Exchange,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Book Pricing Discrepancies,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Availability and Status,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Product Availability for Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Return and Exchange,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,neutral,medium,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Book Pricing Discrepancies,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Product Availability and Status,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Pricing and Discounts,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Accessing Warranty Details,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Return and Exchange,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Product Availability and Status,negative,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,unresolved,not_retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Loyalty program,neutral,less,experienced,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Free Delivery Qualification,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Expedited Delivery,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Placing an Order,positive,high,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Warranty Claim Process,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,negative,high,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Login Issues and Error Messages,neutral,less,junior,high,present,medium,high,0,1,1,0,medium,neutral,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Order Delivery Issues,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Warranty Claim Process,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,less,experienced,high,present,high,high,0,1,1,1,high,negative,resolved,retained
+Product Registration and Warranty,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Start Date of Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,medium,experienced,high,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,negative,high,junior,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Loyalty program,neutral,medium,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Lost or Missing Warranty Card,frustrated,medium,inexperienced,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Standard Shipping Speeds and Delivery Charges,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Standard Shipping Speeds and Delivery Charges,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return Checks and Fees,negative,medium,junior,medium,present,medium,medium,1,1,1,1,low,negative,unresolved,not_retained
+Adding and Changing Account Information,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Account Reactivation and Deactivation,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Returns and Refunds,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Standard Shipping Speeds and Delivery Charges,neutral,high,inexperienced,medium,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,high,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,medium,high,1,0,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,experienced,high,present,high,medium,1,0,1,1,medium,negative,partially_resolved,not_retained
+Product Availability for Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Warranty Claim Process,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,negative,less,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Lost or Missing Warranty Card,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,less,inexperienced,medium,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Placing an Order,positive,medium,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Returns and Refunds,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Installation,negative,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,resolved,retained
+Return Checks and Fees,neutral,medium,inexperienced,medium,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Loyalty program,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Invoice and Payment,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,resolved,retained
+Pricing and Discounts,frustrated,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Lost or Missing Warranty Card,frustrated,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Login Issues and Error Messages,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Expedited Delivery,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,high,neutral,partially_resolved,uncertain
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Pricing and Discounts,neutral,less,experienced,high,present,high,high,0,0,0,0,high,neutral,resolved,retained
+Expedited Delivery,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Expedited Delivery,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Loyalty program,neutral,medium,junior,high,present,medium,high,0,0,1,0,high,neutral,resolved,retained
+Login Issues and Error Messages,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,partially_resolved,uncertain
+Order Confirmation and Status,positive,less,junior,high,present,medium,high,0,1,1,0,high,positive,resolved,retained
+Pickup and Shipping,neutral,medium,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,experienced,unknown,unknown,unknown,unknown,0,0,0,0,unknown,negative,unknown,not_retained
+Order Delivery Issues,frustrated,medium,inexperienced,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,frustrated,medium,inexperienced,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Returns and Refunds,frustrated,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Warranty Claim Process,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Availability and Status,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Book Pricing Discrepancies,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,less,inexperienced,medium,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Shipping Options for Returns,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,less,inexperienced,medium,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Availability of Faster Delivery Options,negative,high,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Accessing Warranty Details,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Order Confirmation and Status,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Standard Shipping Speeds and Delivery Charges,neutral,medium,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Account and Shopping,neutral,medium,inexperienced,high,present,medium,high,1,0,1,0,medium,neutral,resolved,retained
+Login Issues and Error Messages,neutral,high,inexperienced,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Warranty Terms and Changes,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Account and Shopping,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Product Installation,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Order Delivery Issues,negative,high,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Pickup and Shipping,frustrated,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Adding and Changing Account Information,neutral,high,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,frustrated,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Availability for Shipping,negative,high,inexperienced,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,frustrated,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Login Methods,neutral,medium,inexperienced,high,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Product Installation,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Delivery Process,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Confirmation and Status,neutral,medium,junior,high,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Loyalty program,neutral,less,inexperienced,high,present,medium,high,0,0,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,experienced,medium,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Extended Warranty,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Extended Warranty,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Placing an Order,positive,medium,junior,high,present,high,high,0,0,1,0,high,positive,resolved,retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,partially_resolved,uncertain
+Pricing and Discounts,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Registration and Warranty,neutral,medium,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,inexperienced,medium,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Expedited Delivery,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Loyalty program,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return Checks and Fees,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Returns and Refunds,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Free Delivery Qualification,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Invoice and Payment,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account Reactivation and Deactivation,negative,medium,junior,medium,present,medium,high,1,1,1,1,medium,negative,resolved,not_retained
+Return and Exchange,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,partially_resolved,uncertain
+Return Checks and Fees,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,less,inexperienced,medium,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Product Information and Tags,positive,high,junior,high,present,medium,high,0,1,1,0,high,positive,resolved,retained
+Return and Exchange,frustrated,medium,inexperienced,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Return and Exchange,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Extended Warranty,neutral,medium,junior,high,unknown,high,high,0,0,0,0,high,neutral,resolved,retained
+Pickup and Shipping,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Account and Shopping,negative,less,junior,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Delivery Issues,negative,high,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Cash on Delivery (CoD) Refunds,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Invoice and Payment,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Login Issues and Error Messages,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pricing and Discounts,frustrated,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Warranty Claim Process,neutral,less,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Login Methods,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Pricing and Discounts,frustrated,high,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Free Delivery Qualification,neutral,medium,junior,high,present,high,high,1,1,1,1,medium,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Invoice and Payment,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Expedited Delivery,neutral,less,junior,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Delivery Issues,frustrated,high,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Replacement and Return Process,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,medium,neutral,resolved,retained
+Warranty Claim Process,neutral,medium,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,inexperienced,medium,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Product Availability for Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Invoice and Payment,negative,less,inexperienced,medium,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Account and Shopping,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Product Registration and Warranty,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,negative,less,junior,high,present,medium,medium,1,1,1,1,high,negative,partially_resolved,not_retained
+Warranty Claim Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,partially_resolved,uncertain
+Cash on Delivery (CoD) Refunds,frustrated,medium,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Product Availability and Status,negative,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Availability for Shipping,negative,medium,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Replacement and Return Process,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,neutral,medium,inexperienced,high,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Account Reactivation and Deactivation,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Shipping Options for Returns,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Return and Exchange,frustrated,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,neutral,medium,experienced,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Warranty Claim Process,neutral,less,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,high,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Contacting Seller's Partnered Courier Service Providers,neutral,less,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,junior,high,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Pricing and Discounts,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,neutral,medium,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,high,inexperienced,high,present,medium,medium,1,1,1,0,medium,negative,partially_resolved,not_retained
+Return Checks and Fees,neutral,high,experienced,high,present,high,high,0,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,medium,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Mobile Number and Email Verification,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Order Delivery Issues,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Replacement and Return Process,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,not_retained
+Warranty Claim Process,neutral,less,inexperienced,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Product Information and Tags,positive,medium,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Order Delivery Issues,frustrated,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,not_retained
+Order Confirmation and Status,positive,medium,junior,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Product Availability for Shipping,negative,medium,junior,medium,present,medium,medium,1,1,1,1,medium,negative,unresolved,not_retained
+Mobile Number and Email Verification,neutral,less,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,medium,inexperienced,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Expedited Delivery,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Adding and Changing Account Information,neutral,medium,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Contacting Seller's Partnered Courier Service Providers,neutral,medium,experienced,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Invoice and Payment,negative,high,inexperienced,medium,present,low,medium,1,1,1,0,medium,negative,partially_resolved,not_retained
+Login Methods,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Product Installation,neutral,high,experienced,high,present,high,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Order Delivery Issues,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Order Delivery Issues,frustrated,less,experienced,high,present,high,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Return and Exchange,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Pickup and Shipping,frustrated,high,experienced,high,present,high,high,1,1,1,0,high,negative,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,high,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Login Methods,neutral,less,junior,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Contacting Seller's Partnered Courier Service Providers,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Returns and Refunds,frustrated,medium,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Mobile Number and Email Verification,neutral,medium,inexperienced,high,present,medium,high,1,1,1,1,high,neutral,resolved,retained
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Product Availability and Status,negative,medium,experienced,high,present,high,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Product Installation,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Returns and Refunds,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Login Issues and Error Messages,neutral,less,junior,high,present,medium,high,1,1,1,1,medium,neutral,partially_resolved,uncertain
+Pricing and Discounts,neutral,medium,inexperienced,medium,present,medium,high,0,0,0,0,high,neutral,resolved,retained
+Invoice and Payment,negative,less,junior,high,present,medium,high,1,1,1,1,high,negative,resolved,retained
+Warranty Claim Process,neutral,high,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Mobile Number and Email Verification,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,negative,less,experienced,high,present,high,high,1,1,1,0,high,negative,resolved,retained
+Extended Warranty,neutral,less,junior,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Product Installation,negative,high,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,neutral,medium,inexperienced,medium,present,medium,medium,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Mobile Number and Email Verification,neutral,medium,junior,high,present,high,high,0,0,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Lost or Missing Warranty Card,frustrated,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Availability of Faster Delivery Options,negative,less,junior,medium,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Adding and Changing Account Information,neutral,less,inexperienced,high,unknown,medium,high,0,0,1,0,medium,neutral,resolved,retained
+Product Registration and Warranty,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Returns and Refunds,negative,medium,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Miscellaneous,negative,less,junior,medium,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Accessing Warranty Details,neutral,high,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Confirmation and Status,positive,medium,junior,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Loyalty program,neutral,medium,inexperienced,high,present,medium,high,0,1,1,0,high,neutral,resolved,retained
+Product Availability for Shipping,negative,less,experienced,medium,present,high,medium,1,0,1,1,medium,negative,unresolved,not_retained
+Invoice and Payment,negative,medium,junior,medium,present,medium,high,1,1,1,0,medium,negative,resolved,retained
+Lost or Missing Warranty Card,neutral,medium,experienced,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Warranty Claim Process,neutral,medium,inexperienced,high,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Order Delivery Issues,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,resolved,retained
+Pickup and Shipping,negative,less,inexperienced,medium,absent,low,medium,1,1,0,0,low,negative,unresolved,not_retained
+Login Methods,neutral,less,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Start Date of Warranty,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Pickup and Shipping,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Cash on Delivery (CoD) Refunds,frustrated,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Returns and Refunds,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return and Exchange,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Lost or Missing Warranty Card,frustrated,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Return Checks and Fees,negative,medium,junior,high,present,medium,high,1,1,1,1,high,negative,partially_resolved,uncertain
+Replacement and Return Process,neutral,less,junior,high,present,high,high,1,1,1,1,high,neutral,resolved,retained
+Cash on Delivery (CoD) Refunds,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,resolved,retained
+Lost or Missing Warranty Card,neutral,less,junior,high,present,high,high,1,1,1,1,high,positive,resolved,retained
+Loyalty program,neutral,less,experienced,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Accessing Warranty Details,neutral,medium,junior,high,present,medium,high,1,1,1,0,medium,neutral,partially_resolved,uncertain
+Delivery Process,neutral,medium,junior,high,present,medium,medium,1,1,1,1,medium,neutral,resolved,retained
+Product Information and Tags,positive,medium,experienced,high,present,high,high,0,1,1,0,high,positive,resolved,retained
+Cash on Delivery (CoD) Refunds,neutral,medium,inexperienced,medium,present,medium,high,1,1,1,0,medium,neutral,resolved,retained
+Invoice and Payment,neutral,medium,junior,high,present,medium,high,1,1,1,0,high,neutral,resolved,retained
+Product Registration and Warranty,negative,less,experienced,high,present,high,high,1,1,1,1,high,negative,partially_resolved,not_retained
+Account Reactivation and Deactivation,negative,medium,experienced,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Account and Shopping,neutral,medium,junior,high,present,medium,high,1,1,1,1,medium,neutral,resolved,retained
+Account and Shopping,negative,medium,junior,high,present,medium,medium,1,1,1,1,medium,negative,partially_resolved,uncertain
+Return and Exchange,negative,medium,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain
+Pickup and Shipping,neutral,medium,junior,high,present,high,high,0,1,1,0,high,neutral,resolved,retained
+Warranty Terms and Changes,negative,less,junior,high,present,high,high,1,1,1,1,high,negative,resolved,retained
+Return and Exchange,neutral,medium,junior,high,present,high,high,1,1,1,0,high,neutral,resolved,retained
+Order Delivery Issues,negative,less,junior,high,present,medium,high,1,1,1,1,medium,negative,partially_resolved,uncertain

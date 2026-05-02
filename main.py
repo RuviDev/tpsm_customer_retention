@@ -18,6 +18,13 @@ dashboard_page = st.Page(
     "pages/dashboard.py",
     title="Dashboard",
     icon=":material/dashboard:",
+    default=True,
+)
+
+descriptive_page = st.Page(
+    "pages/descriptive_statistics.py",
+    title="Descriptive Statistics",
+    icon=":material/analytics:",
 )
 
 prediction_page = st.Page(
@@ -40,7 +47,8 @@ about_page = st.Page(
 
 pg = st.navigation(
     {
-        "Main": [dashboard_page, prediction_page, weighted_page],
+        "Analytics": [dashboard_page, descriptive_page],
+        "Prediction": [prediction_page, weighted_page],
         "Project": [about_page],
     },
     expanded=True,
