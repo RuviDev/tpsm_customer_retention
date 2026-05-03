@@ -8,7 +8,6 @@ from utils.prediction_helpers import (
 )
 from utils.ui_helpers import load_css, page_header, result_card, locked_card
 
-
 load_css()
 initialize_session_state()
 
@@ -22,14 +21,14 @@ st.markdown("### Weighted Prediction Formula")
 st.latex(
     r"""
     Final\ Probability =
-    (Category\ 1\ Probability \times 0.40)
+    (Category\ 1\ Probability \times 0.60)
     +
-    (Category\ 2\ Probability \times 0.60)
+    (Category\ 2\ Probability \times 0.40)
     """
 )
 
 st.info(
-    "Category 1 receives 40% weight and Category 2 receives 60% weight. "
+    "Category 1 receives 60% weight and Category 2 receives 40% weight. "
     "Category 2 receives higher weight because it directly represents the quality of the customer interaction."
 )
 
@@ -51,7 +50,7 @@ with col2:
     st.metric("Category 2 Probability", probability_to_percentage(cat2_probability))
 
 with col3:
-    st.metric("Weighting Method", "40% + 60%")
+    st.metric("Weighting Method", "60% + 40%")
 
 weighted_result = combine_weighted_predictions(
     cat1_probability,

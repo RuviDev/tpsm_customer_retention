@@ -160,9 +160,9 @@ section_title("Weighted Final Prediction Method")
 st.latex(
     r"""
     Final\ Probability =
-    (Category\ 1\ Probability \times 0.40)
+    (Category\ 1\ Probability \times 0.60)
     +
-    (Category\ 2\ Probability \times 0.60)
+    (Category\ 2\ Probability \times 0.40)
     """
 )
 
@@ -170,8 +170,8 @@ st.markdown(
     """
     Option 3 was used for the final prediction. This is a topic-based weighted prediction method.
 
-    - Category 1 receives **40% weight**.
-    - Category 2 receives **60% weight**.
+    - Category 1 receives **60% weight**.
+    - Category 2 receives **40% weight**.
 
     Category 2 receives a higher weight because it directly measures customer interaction enjoyment,
     such as politeness, empathy, helpfulness, communication clarity, sentiment, tone, and outcome quality.
